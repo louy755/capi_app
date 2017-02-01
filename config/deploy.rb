@@ -1,8 +1,8 @@
 # config valid only for current version of Capistrano
 lock "3.7.2"
 
-set :application, "todo_list"
-set :repo_url, "https://github.com/louy755/todo_list.git"
+set :application, "capi_app"
+set :repo_url, "https://github.com/louy755/capi_app.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
